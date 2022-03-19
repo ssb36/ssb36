@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamborade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamborade/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5921701/shubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5921701/shubh" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shubham.borade.399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shubham.borade.399" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shubhamsborade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhamsborade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhamborade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamborade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5921701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5921701" height="30" width="40" /></a>
+<a href="https://fb.com/shubham.borade.399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham.borade.399" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhamsborade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamsborade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
