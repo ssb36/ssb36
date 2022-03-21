@@ -21,12 +21,6 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                 alt="shubhamsborade" height="30" width="40" /></a>
     </p>
-
-
-
-
-
-
     <h3 align="left">Languages:</h3>
 
     <p align="left">
