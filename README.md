@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shubham Borade.</h1>
 <h3 align="center">A Full stack Web Developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ssb36](https://github.com/ssb36)
-
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **JS | react | NodeJS | JAVA | Express**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ssb36)
+
+- 💬 Ask me about **JS | NodeJS | JAVA | Express | react**
+
+- 📫 How to reach me **spsb36@gmmail.com**
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
