@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ssb36](https://github.com/ssb36)
 
+- 🌱 I’m currently learning **React.js**
+
 - 💬 Ask me about **JS | react | NodeJS | JAVA | Express**
 <hr>
 <h3 align="left">Connect with me:</h3>
