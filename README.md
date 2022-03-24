@@ -57,3 +57,4 @@
             height="40" /> </a> </p>
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssb36)](https://github.com/ssb36/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssb36)](https://github.com/ssb36/github-readme-stats)
