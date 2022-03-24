@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JS | NodeJS | JAVA | Express | react**
 
-- 📫 How to reach me [Github] **spsb36@gmmail.com**
+- 📫 How to reach me **spsb36@gmmail.com**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
