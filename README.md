@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Borade.</h1>
 <h3 align="center">A Full stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m in Love with **React.js**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ssb36)
 
