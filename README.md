@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Borade.</h1>
-<h3 align="center">A Full stack Web Developer.</h3>
+<h3 align="center">A MERN Stack Developer.</h3>
 
 - 🌱 I’m in Love with **React.js**
 
